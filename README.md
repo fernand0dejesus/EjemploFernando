@@ -17,9 +17,7 @@ Aplicación móvil CRUD desarrollada con React Native y Expo que demuestra:
 - React Navigation
 - Custom Hooks
 
-## Instalación
-\`\`\`bash
-git clone https://github.com/tu-usuario/MiAppCrud.git
+
 cd MiAppCrud
 npm install
 expo start
